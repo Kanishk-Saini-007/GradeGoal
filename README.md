@@ -1,6 +1,6 @@
 # GradeGoal
 
-[Open live app](https://kanishksaini-007.github.io/GradeGoal/)
+[Open live app](https://kanishk-saini-007.github.io/GradeGoal/)
 
 **Know your next move.** A focused, private grade planner that turns your scores so far into a clear target for what's left.
 
